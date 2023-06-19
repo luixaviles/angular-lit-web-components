@@ -122,6 +122,5 @@
         }
       }
     }
-  },
-  "defaultProject": "angular-lit-web-components"
+  }
 }
